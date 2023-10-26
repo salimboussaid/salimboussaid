@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React,Nextjs**
 
-- 📝 I regularly write articles on (https://www.linkedin.com/in/mohamed-salim-boussaid-1ba90a228/)
+- 📝 I regularly write articles on ([https://www.linkedin.com/in/mohamed-salim-boussaid-1ba90a228/](https://shorturl.at/asuxC))
 
 - 📫 How to reach me **salimboussaid20@gmail.com**
 
