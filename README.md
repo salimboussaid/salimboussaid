@@ -7,18 +7,12 @@
 
 <br>
 
-<!-- =============================== -->
-
-<!-- 🚀 About Me with Coding Animation -->
-
-<!-- =============================== -->
-
-<h2 align="center">🚀 About Me</h2>
-
 <table align="center" border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-    
+      <blockquote>
+        <b>"I manage bugs 🐞 like a boss and code ☕ like a human."</b>
+      </blockquote>
       <br>
       As a passionate <b>Full-Stack Engineer</b> & <b>Odoo Specialist</b>, I craft seamless digital experiences that solve real-world problems.
       <br><br>
@@ -36,7 +30,6 @@
     </td>
   </tr>
 </table>
-
 <!-- ✨ Animated Divider -->
 
 <div align="center">
