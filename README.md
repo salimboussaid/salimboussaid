@@ -113,35 +113,21 @@ I specialize in **React, Next.js, and TypeScript**, with solid backend expertise
 </h3>
 
 <!-- =============================== -->
-<!-- 💼 Experience -->
+<!-- � Activity & Contributions -->
 <!-- =============================== -->
+<h2 align="center">🐍 Open Source Activity</h2>
 
-## 💼 Professional Experience
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=89+Contributions+in+the+Last+Year;Commiting+Code+Every+Day;Building+the+Future&font=Fira%20Code&center=true&width=500&height=50&color=3b82f6&vCenter=true&size=24&pause=1000" />
+</p>
 
-| Period | Role | Company / Project |
-|:---|:---|:---|
-| **Sep 2025 – Jan 2026** | **Frontend Developer (Project-Based)** | **Ural Federal University** <br> Built a production-ready admin dashboard, integrated REST APIs, and ensured system stability. |
-| **Dec 2024 – Feb 2025** | **Freelance Odoo Developer** | **Remote** <br> Developed a complete vehicle rental management module (Odoo 16), automating contracts, invoicing, and maintenance. |
-| **Jan 2024 – Oct 2024** | **Odoo Developer** | **iA4Med (Tunisia)** <br> Led full-cycle ERP development for pediatric dentistry. Designed the "Caravane de Santé" module. Deployed on OVH Cloud. |
-| **2022 – 2023** | **Full-Stack Developer** | **Freelance** <br> Delivered multiple web apps for clients. Integrated secure auth, payment gateways, and real-time features. |
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 📂 Projects -->
-<!-- =============================== -->
-
-## 📂 Featured Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| **[Intelligent Recruitment Agent](https://github.com/salimboussaid/Agent_Recrutement)** | AI-powered platform aggregating job offers with GPT-4 CV analysis. | Next.js, OpenAI, Python |
-| **[Marketing Platform](https://github.com/salimboussaid/Marketing-Platform)** | Modern marketing dashboard with real-time analytics and data viz. | React, Tailwind, Recharts |
-| **[Paper And Stilo](https://github.com/salimboussaid/Paper-And-Stilo)** | Bilingual E-commerce platform (Arabic/French) with admin dashboard. | Full Stack, Next.js |
-| **[Dolce Candela Glow](https://github.com/salimboussaid/dolce-candela-glow)** | Promotional landing page enabling high social media conversion. | Frontend, React |
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- ✨ Divider -->
 <h3 align="center">
@@ -162,39 +148,6 @@ I specialize in **React, Next.js, and TypeScript**, with solid backend expertise
 *   International Russian Language Olympiad (Participant)
 *   Odoo Property Management System
 *   Frontend Development (Udemy)
-
----
-
-<!-- =============================== -->
-<!-- 📊 Stats -->
-<!-- =============================== -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salimboussaid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=06b6d4" height="180" alt="stats graph" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimboussaid&layout=compact&theme=tokyonight&border_color=06b6d4&langs_count=8" height="180" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimboussaid&theme=tokyonight&border=06b6d4&stroke=06b6d4&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak" />
-</div>
-
-<!-- =============================== -->
-<!-- 🐍 Contributions Animation -->
-<!-- =============================== -->
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
