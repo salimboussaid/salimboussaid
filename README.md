@@ -7,15 +7,6 @@
 
 <br>
 
-<!-- ✨ Animated Typing Effect -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;Crafting+Innovative+Odoo+Solutions;Integrating+AI+%26+Automation+Tools;Turning+Ideas+Into+Reality" alt="Typing Animation" />
-  </a>
-</div>
-
-<br>
-
 <!-- =============================== -->
 
 <!-- 🚀 About Me with Coding Animation -->
@@ -27,9 +18,7 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <blockquote>
-        <b>"I manage bugs 🐞 like a boss and code ☕ like a human."</b>
-      </blockquote>
+    
       <br>
       As a passionate <b>Full-Stack Engineer</b> & <b>Odoo Specialist</b>, I craft seamless digital experiences that solve real-world problems.
       <br><br>
