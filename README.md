@@ -10,7 +10,8 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      
+      <blockquote>
+      </blockquote>
       <br>
       As a passionate <b>Full-Stack Engineer</b> & <b>Odoo Specialist</b>, I craft seamless digital experiences that solve real-world problems.
       <br><br>
@@ -24,9 +25,11 @@
     <td width="45%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Professional Coding Animation">
       <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=salimboussaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" width="100%" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
+
 <!-- ✨ Animated Divider -->
 
 <div align="center">
