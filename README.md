@@ -1,21 +1,19 @@
 <!-- =============================== -->
-<!-- 🌌 Custom Header Image -->
+<!-- 🌌 Fixed Header Image -->
 <!-- =============================== -->
 <div align="center">
-  <img src="./Untitled design.png" width="100%" alt="Header Image" />
+  <img src="./header.png" width="100%" alt="Header Banner" />
+</div>
+
+<br>
+
+<!-- ✨ Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <!-- =============================== -->
-<!-- 👋 Typing Intro -->
-<!-- =============================== -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Web+Applications;Optimizing+ERP+Workflows;Crafting+Production-Ready+Code;Based+in+Yekaterinburg,+Russia&font=Fira+Code&center=true&width=600&height=50&color=38bdf8&vCenter=true&size=26&pause=1000" alt="Typing SVG" />
-  </a>
-</h1>
-
-<!-- =============================== -->
-<!-- 🚀 About Me -->
+<!-- 🚀 About Me with Coding Animation -->
 <!-- =============================== -->
 <h2 align="center">🚀 About Me</h2>
 
@@ -23,18 +21,16 @@
   <tr>
     <td width="55%" valign="top">
       <blockquote>
-        <b>"I turn coffee ☕ into production-ready code."</b>
+        <b>"I manage bugs 🐞 like a boss and code ☕ like a human."</b>
       </blockquote>
       <br>
-      I am a <b>Software Engineer</b> with <b>4+ years of expertise</b> in scalable web applications and ERP solutions.
-      <br><br>
-      My core focus is delivering <b>high-performance</b> full-stack architectures using <b>React 19, Next.js 15</b>, and <b>Odoo 16</b>.
+      As a passionate <b>Full-Stack Engineer</b> & <b>Odoo Specialist</b>, I craft seamless digital experiences that solve real-world problems.
       <br><br>
       <ul>
-        <li>🌍 <b>Location:</b> Yekaterinburg, Russia (Open to Remote)</li>
-        <li>🔭 <b>Building:</b> AI-Driven Recruitment Agents</li>
-        <li>🌱 <b>Learning:</b> Advanced Microservices & Russian Language</li>
-        <li>💼 <b>Status:</b> Available for complex projects</li>
+        <li>🌍 <b>Based in:</b> Yekaterinburg, Russia (Open to Remote)</li>
+        <li>🔭 <b>Building:</b> Next-Gen AI Recruitment Platforms</li>
+        <li>🌱 <b>Stack:</b> React 19, Next.js 15, Odoo 16, Python</li>
+        <li>💼 <b>Status:</b> Ready for new challenges</li>
       </ul>
     </td>
     <td width="45%" align="center">
@@ -49,7 +45,7 @@
 </div>
 
 <!-- =============================== -->
-<!-- 📬 Contact / Socials -->
+<!-- 📬 Connect With Me (Animated Hover Badges) -->
 <!-- =============================== -->
 <h2 align="center">📬 Connect With Me</h2>
 
@@ -80,7 +76,7 @@
 </div>
 
 <!-- =============================== -->
-<!-- 🛠️ Technical Arsenal -->
+<!-- 🛠️ Technical Arsenal (Pro Icons) -->
 <!-- =============================== -->
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
@@ -119,37 +115,10 @@
 <br>
 
 <!-- =============================== -->
-<!-- 📊 Activity & Stats (Footer) -->
-<!-- =============================== -->
-<h2 align="center">📊 Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salimboussaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38bdf8&text_color=c9d1d9&title_color=38bdf8&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimboussaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=38bdf8&langs_count=6" height="170" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimboussaid&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
-</div>
-
-<br>
-
-<h2 align="center">🐍 Contributions</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<!-- =============================== -->
-<!-- Footer -->
+<!-- 🌊 Footer Animation -->
 <!-- =============================== -->
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,35&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,35&height=120&section=footer" width="100%"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=salimboussaid&style=flat-square&color=38bdf8&label=Profile+Views" alt="Profile Views" />
 </div>
