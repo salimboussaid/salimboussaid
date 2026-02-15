@@ -3,77 +3,69 @@
 <!-- =============================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=200&section=header&text=Mohamed%20Salim%20Boussaid&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20ERP%20Specialist&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=220&section=header&text=Mohamed%20Salim%20Boussaid&fontSize=40&fontColor=ffffff&desc=Frontend%20|%20Full-Stack%20Developer%20|%20Odoo%20ERP%20Expert&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- =============================== -->
-<!-- 👋 Intro Heading with Wave -->
+<!-- 👋 Introduction -->
 <!-- =============================== -->
 <h1 align="center">
-  Hello World! 
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-       alt="Waving hand animated gif"
-       height="45" 
-       width="45"/> 
-  I'm Mohamed Salim Boussaid
+  Hello World! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="35" width="35"/> I'm Mohamed Salim Boussaid
 </h1>
 
-<h3 align="center">💼 Software Engineer | 🚀 Full-Stack Developer | 🌐 ERP Specialist</h3>
-<h3 align="center">Passionate Developer from Tunisia 🇹🇳</h3>
-
-<!-- =============================== -->
-<!-- ✨ Divider -->
-<!-- =============================== -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 🖊️ Typing Animation Effect -->
-<!-- =============================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Odoo+ERP+Specialist;Building+Modern+Web+Applications;Let's+Create+Something+Amazing!&font=Fira%20Code&center=true&width=700&height=60&color=06b6d4&vCenter=true&size=28&pause=1000" />
+  <b>🌍 Yekaterinburg, Russia (Open to Remote & Relocation)</b><br>
+  <i>Frontend | Full Stack Developer | Expert in Odoo ERP & Web Applications</i>
 </p>
 
-<!-- =============================== -->
-<!-- 👁️ GitHub Profile View Counter -->
-<!-- =============================== -->
 <p align="center">
-  <img width="150px" src="https://komarev.com/ghpvc/?username=salimboussaid&style=flat-square&color=06b6d4" />
-  <img src="https://img.shields.io/github/followers/salimboussaid?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="mailto:salimboussaid@mail.ru">
+    <img src="https://img.shields.io/badge/Email-salimboussaid@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/smylai">
+    <img src="https://img.shields.io/badge/Telegram-@smylai-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-salim-boussaid-1ba90a228/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/bsd.salim/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/salim.boussaid.171036">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://vk.com/id879704082">
+    <img src="https://img.shields.io/badge/VK-Connect-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+  </a>
 </p>
-
-<!-- =============================== -->
-<!-- 🖼️ Profile Photo Banner -->
-<!-- =============================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B;Let's+Build+Something+Great!+%F0%9F%9A%80" alt="Welcome Animation" />
-</div>
 
 <br>
 
+<!-- =============================== -->
+<!-- 🖊️ Typing Animation -->
+<!-- =============================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;Odoo+ERP+Specialist+%F0%9F%93%88;Next.js+15+%26+React+19+%F0%9F%9A%80;Building+Scalable+Solutions;Let's+Collaborate!&font=Fira%20Code&center=true&width=500&height=50&color=06b6d4&vCenter=true&size=24&pause=1000" />
+</p>
+
 <!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
 <!-- =============================== -->
-<!-- 🙋‍♂️ About Section -->
+<!-- 📝 About Me -->
 <!-- =============================== -->
 
 ## 🚀 About Me
 
-🎓 **Software Engineer** specializing in **Full-Stack Web Development** and **ERP Systems**. I have a deep passion for creating elegant, scalable solutions and contributing to innovative projects.
+I am a **Frontend, Full-Stack, and Odoo Developer** with **4+ years of experience** building modern web applications, AI-powered platforms, and custom ERP solutions. 
 
-👨‍💻 Currently building modern web applications using **Next.js 15**, **React 19**, and **TypeScript**. I've developed my [Personal Portfolio](https://portfolio-salim.vercel.app/) showcasing interactive features including 3D globe visualizations, animated galleries, and responsive design.
+I specialize in **React, Next.js, and TypeScript**, with solid backend expertise in **Node.js, Python, and Odoo 16**. I have a proven track record of delivering scalable systems, integrating complex APIs, and automating business workflows. 
 
-💼 **ERP Expertise:** Specialized in **Odoo** development with hands-on experience in customizing modules, implementing business workflows, and integrating third-party systems.
-
-✨ **Mission:** To leverage cutting-edge technologies to build high-performance, user-centric applications that solve real-world business challenges and deliver exceptional value.
-
-🌍 **Open to Collaborate:** Always excited to work on innovative projects, exchange ideas, and contribute to open-source communities.
-
-🤝 **Let's Connect:** Reach out to discuss new opportunities, tech collaborations, or just to share knowledge!
+*   🌱 **Currently Learning**: Advanced Russian Language
+*   🔭 **Working on**: AI-Powered Recruitment Agents & ERP Modules
+*   ⚡ **Fun Fact**: I turn coffee ☕ into code and bugs 🐛 into features!
 
 <!-- ✨ Divider -->
 <h3 align="center">
@@ -81,302 +73,132 @@
 </h3>
 
 <!-- =============================== -->
-<!-- 🛠️ Tech Stack Icons -->
+<!-- 🛠️ Tech Stack -->
 <!-- =============================== -->
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,materialui,framer" alt="Frontend Stack" />
+### Frontend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,materialui&perline=9" alt="Frontend Skills" />
+  </a>
 </p>
 
-### Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,supabase" alt="Backend Stack" />
+### Backend & ERP Systems
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,sqlite,firebase&perline=7" alt="Backend Skills" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Odoo_16-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
 </p>
 
-### Development Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker,linux,bash,npm" alt="Tools" />
+### Tools, Cloud & AI
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,linux,postman,bash&perline=9" alt="Tools" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/OVH_Cloud-123456?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH" />
 </p>
 
-### ERP & Business Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-  <img src="https://img.shields.io/badge/ERP-06B6D4?style=for-the-badge&logo=database&logoColor=white" alt="ERP" />
-  <img src="https://img.shields.io/badge/Business_Logic-3B82F6?style=for-the-badge&logo=algorithm&logoColor=white" alt="Business Logic" />
-</p>
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!-- =============================== -->
+<!-- 💼 Experience -->
+<!-- =============================== -->
+
+## 💼 Professional Experience
+
+| Period | Role | Company / Project |
+|:---|:---|:---|
+| **Sep 2025 – Jan 2026** | **Frontend Developer (Project-Based)** | **Ural Federal University** <br> Built a production-ready admin dashboard, integrated REST APIs, and ensured system stability. |
+| **Dec 2024 – Feb 2025** | **Freelance Odoo Developer** | **Remote** <br> Developed a complete vehicle rental management module (Odoo 16), automating contracts, invoicing, and maintenance. |
+| **Jan 2024 – Oct 2024** | **Odoo Developer** | **iA4Med (Tunisia)** <br> Led full-cycle ERP development for pediatric dentistry. Designed the "Caravane de Santé" module. Deployed on OVH Cloud. |
+| **2022 – 2023** | **Full-Stack Developer** | **Freelance** <br> Delivered multiple web apps for clients. Integrated secure auth, payment gateways, and real-time features. |
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!-- =============================== -->
+<!-- 📂 Projects -->
+<!-- =============================== -->
+
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[Intelligent Recruitment Agent](https://github.com/salimboussaid/Agent_Recrutement)** | AI-powered platform aggregating job offers with GPT-4 CV analysis. | Next.js, OpenAI, Python |
+| **[Marketing Platform](https://github.com/salimboussaid/Marketing-Platform)** | Modern marketing dashboard with real-time analytics and data viz. | React, Tailwind, Recharts |
+| **[Paper And Stilo](https://github.com/salimboussaid/Paper-And-Stilo)** | Bilingual E-commerce platform (Arabic/French) with admin dashboard. | Full Stack, Next.js |
+| **[Dolce Candela Glow](https://github.com/salimboussaid/dolce-candela-glow)** | Promotional landing page enabling high social media conversion. | Frontend, React |
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!-- =============================== -->
+<!-- 🎓 Education -->
+<!-- =============================== -->
+
+## 🎓 Education & Certifications
+
+*   🎓 **Master’s in Software Project Development** - Ural Federal University (Current)
+*   🎓 **Russian Language Preparatory Program** - Povolzhskiy State University (2024-2025)
+*   🎓 **Bachelor’s in Software Engineering** - ISIMM, Tunisia (2021-2024)
+
+### 📜 Certifications
+*   International Russian Language Olympiad (Participant)
+*   Odoo Property Management System
+*   Frontend Development (Udemy)
 
 ---
 
 <!-- =============================== -->
-<!-- 📊 GitHub Stats Section -->
+<!-- 📊 Stats -->
 <!-- =============================== -->
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salimboussaid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=06b6d4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimboussaid&layout=compact&theme=tokyonight&border_color=06b6d4&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimboussaid&theme=tokyonight&border=06b6d4&stroke=06b6d4&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak Stats" />
-</p>
-
----
-
-<!-- =============================== -->
-<!-- 🗂️ Summary Cards & Productive Hours -->
-<!-- =============================== -->
-
-## 💳 Profile Summary & Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salimboussaid&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salimboussaid&theme=tokyonight&utcOffset=1" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salimboussaid&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=salimboussaid&data=followers,repositories,stars,commits&theme=radical">
-</p>
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 🎭 Random Dev Joke Generator -->
-<!-- =============================== -->
-<div align="center"> 
-  <i>Random Dev Joke for You! 🎭</i></br></br>
-  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%2306b6d4&aColor=%233b82f6&borderColor=%2306b6d4&codeColor=%2322d3ee" alt="README Jokes">
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salimboussaid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=06b6d4" height="180" alt="stats graph" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimboussaid&layout=compact&theme=tokyonight&border_color=06b6d4&langs_count=8" height="180" alt="languages graph" />
 </div>
 
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimboussaid&theme=tokyonight&border=06b6d4&stroke=06b6d4&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak" />
+</div>
 
 <!-- =============================== -->
-<!-- 📌 Pinned GitHub Repositories -->
+<!-- 🐍 Contributions Animation -->
 <!-- =============================== -->
 
-## 🚀 Featured Projects
+<br>
 
-<p align="center">
-  <a href="https://github.com/salimboussaid/Portfolio-1.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salimboussaid&repo=Portfolio-1.0&theme=tokyonight&border_color=06b6d4" />
-  </a>
-</p>
-
-<p align="center">
-  <i>More amazing projects coming soon! 🚀</i>
-</p>
-
----
-
-<!-- =============================== -->
-<!-- 🧠 Inspirational Quote Widget -->
-<!-- =============================== -->
-
-## 🧠 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</p>
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 📅 Contribution Activity Graph -->
-<!-- =============================== -->
-
-## 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salimboussaid&bg_color=1a1b27&color=06b6d4&line=3b82f6&point=22d3ee&area=true&hide_border=false&border_color=06b6d4" />
-</p>
-
----
-
-<!-- =============================== -->
-<!-- 🏆 GitHub Trophy Showcase -->
-<!-- =============================== -->
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salimboussaid&theme=tokyonight&no-frame=false&margin-w=10&margin-h=10&column=7&border_color=06b6d4" />
-</p>
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 🔋 Coding Activity -->
-<!-- =============================== -->
-
-## 💻 Current Focus
-
-```typescript
-const salim = {
-  name: "Mohamed Salim Boussaid",
-  location: "Tunisia 🇹🇳",
-  role: "Software Engineer & Full-Stack Developer",
-  
-  currentlyLearning: ["Next.js 15", "React 19", "AI/ML", "Three.js"],
-  currentlyWorking: ["Personal Portfolio", "ERP Solutions", "Open Source"],
-  
-  technologies: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-    erp: ["Odoo", "Custom Modules", "Business Workflows"],
-    tools: ["Git", "Docker", "VS Code", "Postman", "Vercel"]
-  },
-  
-  architectures: ["SPA", "SSR", "Microservices", "REST API", "MVC"],
-  
-  funFact: "I turn coffee ☕ into code 💻 and bugs 🐛 into features! 🚀"
-};
-```
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 🔗 Snake Contribution Animation -->
-<!-- =============================== -->
-
-## 🐍 Watch My Contributions!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 🔗 Social & Portfolio Links -->
-<!-- =============================== -->
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://portfolio-salim.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-salim-boussaid-1ba90a228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/salimboussaid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/salim.boussaid.171036" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/bsd.salim/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/salimboussaid" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://vk.com/id879704082" target="_blank">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
-  </a>
-  <a href="https://wa.me/21624601169" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
----
-
-<!-- =============================== -->
-<!-- 📧 Contact Information -->
-<!-- =============================== -->
-
-## 📬 Get in Touch
-
-<p align="center">
-  <a href="mailto:salimboussaid@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <i>💼 Open to collaborations, freelance projects, and full-time opportunities!</i>
-</p>
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 🎯 Current Goals -->
-<!-- =============================== -->
-
-## 🎯 2025 Goals
-
-- ✅ Build and deploy 5+ production-ready applications
-- ✅ Contribute to 10+ open-source projects
-- ✅ Master Next.js 15 and React 19 ecosystem
-- ✅ Implement AI/ML features in web applications
-- ✅ Grow GitHub community and help fellow developers
-- ✅ Write technical blogs and tutorials
-- ✅ Expand ERP expertise with Odoo customizations
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
----
-
-<!-- =============================== -->
-<!-- 💡 Fun Facts -->
-<!-- =============================== -->
-
-## 💡 Fun Facts
-
-- 🎮 When I'm not coding, I'm probably gaming or exploring new tech
-- 📚 Constantly learning and staying updated with latest web technologies
-- 🌍 Love connecting with developers from around the world
-- ☕ Coffee is my debugging fuel!
-- 🎨 Passionate about creating beautiful, intuitive user interfaces
-- 🚀 Dream big, code bigger!
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salimboussaid/salimboussaid/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
 <div align="center">
-  
-### ⭐ If you find my work interesting, give it a star! ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=120&section=footer" width="100%"/>
-
-**💻 Made with ❤️ by Mohamed Salim Boussaid**
-
-**© 2025 All Rights Reserved**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=100&section=footer" width="100%"/>
+  <p>© 2026 Mohamed Salim Boussaid | Built with ❤️</p>
 </div>
