@@ -16,7 +16,7 @@
       As a passionate <b>Full-Stack Engineer</b> & <b>Odoo Specialist</b>, I craft seamless digital experiences that solve real-world problems.
       <br><br>
       <ul>
-        <li>🌍 <b>Based in:</b> Yekaterinburg, Russia (Open to Remote)</li>
+        <li> 🌍 <b>Based in:</b> Yekaterinburg, Russia (Open to Remote)</li>
         <li>🔭 <b>Building:</b> Next-Gen AI Recruitment Platforms</li>
         <li>🌱 <b>Stack:</b> React 19, Next.js 15, Odoo 16, Python</li>
         <li>💼 <b>Status:</b> Ready for new challenges</li>
