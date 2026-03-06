@@ -1,5 +1,5 @@
 <!-- =============================== -->
-<!-- 🌌 Professional Header -->
+<!-- 🌌 Professional Header --> 
 <!-- =============================== -->
 <div align="center">
   <img src="./header.png" width="100%" alt="Mohamed Salim Boussaid - Full-Stack Engineer" />
